@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PMVNG/PluginB
+build-by-default: true
+branches:
+- master
+projects:
+  PluginB:
+    path: ""
+    libs:
+    - src: PMVNG/VirionAB/VirionAB
+      version: 2.0.0
+...
