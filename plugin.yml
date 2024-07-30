@@ -1,0 +1,6 @@
+---
+name: PluginB
+version: 0.0.1
+main: PMVNG\PluginB\Main
+api: 5.0.0
+...
